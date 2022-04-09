@@ -97,4 +97,4 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">My Statistics in Github:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dg17001&show_icons=true,prs&cache_seconds=86400&theme=radical&hide_border=true&locale=en" alt="dg17001" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dg17001&layout=compact&theme=radical&hide_border=true&locale=en" alt="dg17001" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dg17001&repo=github-readme-stats&theme=radical&hide_border=true&locale=en" alt="dg17001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dg17001&repo=dg17001&theme=radical&hide_border=true&locale=en" alt="dg17001" /></p>
