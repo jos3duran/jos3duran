@@ -3,6 +3,8 @@
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=DG17001/DG17001)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dg17001&label=Profile%20views&color=7befc3&style=flat-square" alt="dg17001" /> </p>
 
 <h3 align="left">About me </h3>
