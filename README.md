@@ -2,7 +2,7 @@
 # Hello! 👋  Welcome to my Github Profile 🔭 !
 
 <p align="left">
-  <img src="https://contrib.rocks/image?repo=DG17001/DG17001"></img>
+  <!--img src="https://contrib.rocks/image?repo=DG17001/DG17001"></img-->
   <img src="https://komarev.com/ghpvc/?username=dg17001&label=Profile%20views&color=7befc3&style=flat-square" alt="dg17001" />
 </p>
 
