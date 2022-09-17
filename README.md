@@ -1,9 +1,10 @@
 
 # Hello! 👋  Welcome to my Github Profile 🔭 !
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=DG17001/DG17001)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dg17001&label=Profile%20views&color=7befc3&style=flat-square" alt="dg17001" /> </p>
+<p align="left">
+  ![GitHub Contributors Image](https://contrib.rocks/image?repo=DG17001/DG17001)
+  <img src="https://komarev.com/ghpvc/?username=dg17001&label=Profile%20views&color=7befc3&style=flat-square" alt="dg17001" />
+</p>
 
 <h3 align="left">About me </h3>
 - 🔭 I'm a currently working on [Atras va Solo](https://diseno2022.github.io/atrasvasoloAPP/)
