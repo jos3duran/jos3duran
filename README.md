@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">About me </h3>
-- 🔭 I'm a currently working on [Atras va Solo](https://diseno2022.github.io/atrasvasoloAPP/)
+- 🔭 I'm a currently working on [Atras va Solo](https://website.atrasvasolo.com/)
 
 - 👋 Hi, I’m @DG17001
 - 🌱 I’m currently learning **VueFire and Firebase**
