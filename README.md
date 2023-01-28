@@ -1,8 +1,5 @@
 
-
-<div id="header" align="center">
-    <h1 align="center">Hello! 👋  Welcome to my Github Profile 🔭 !</h1>
-</div>
+<h1 align="center">Hello! 👋  Welcome to my Github Profile 🔭 !</h1>
 
 <p align="left">
   <!--img src="https://contrib.rocks/image?repo=DG17001/DG17001"></img-->
