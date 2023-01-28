@@ -1,8 +1,7 @@
 
 
 <div id="header" align="center">
-    <h1 align="center"># Hello! 👋  Welcome to my Github Profile 🔭 !</h1>
-    <h3 align="center"></h3>
+    <h1 align="center">Hello! 👋  Welcome to my Github Profile 🔭 !</h1>
 </div>
 
 <p align="left">
