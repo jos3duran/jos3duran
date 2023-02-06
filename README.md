@@ -2,20 +2,20 @@
 <h1 align="center">Hello! 👋  Welcome to my Github Profile 🔭 !</h1>
 
 <p align="left">
-  <!--img src="https://contrib.rocks/image?repo=DG17001/DG17001"></img-->
-  <img src="https://komarev.com/ghpvc/?username=dg17001&label=Profile%20views&color=7befc3&style=flat-square" alt="dg17001" />
+  <!--img src="https://contrib.rocks/image?repo=jos3duran/jos3duran"></img-->
+  <img src="https://komarev.com/ghpvc/?username=jos3duran&label=Profile%20views&color=7befc3&style=flat-square" alt="jos3duran" />
 </p>
 
 <h3 align="left">About me </h3>
 - 🔭 I'm a currently working on [Atras va Solo](https://website.atrasvasolo.com/)
 
-- 👋 Hi, I’m @DG17001
+- 👋 Hi, I’m Jose Duran
 - 🌱 I’m currently learning **VueFire and Firebase**
 - 👨🏻‍💻 I’m currently working with **Quasar, Vue, CSS, JavaScript.**
 - 👯 I’m looking to collaborate on **Anything that's fun and me call attention!**
 
 <!---
-DG17001/DG17001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jos3duran/jos3duran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -98,6 +98,6 @@ You can click the Preview link to take a look at your changes.
   </a> 
 </p>
 <h3 align="left">My Statistics in Github:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dg17001&show_icons=true,prs&cache_seconds=86400&theme=radical&hide_border=true&locale=en" alt="dg17001" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dg17001&layout=compact&theme=radical&hide_border=true&locale=en" alt="dg17001" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dg17001&repo=dg17001&theme=radical&hide_border=true&locale=en" alt="dg17001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jos3duran&show_icons=true,prs&cache_seconds=86400&theme=radical&hide_border=true&locale=en" alt="jos3duran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jos3duran&layout=compact&theme=radical&hide_border=true&locale=en" alt="jos3duran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jos3duran&repo=jos3duran&theme=radical&hide_border=true&locale=en" alt="jos3duran" /></p>
